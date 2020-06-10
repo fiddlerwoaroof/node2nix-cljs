@@ -1,0 +1,17 @@
+{
+  "name": "node2nix-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.cljs",
+  "scripts": {
+    "m": "lumo src/main.cljs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lumo-cljs": "^1.10.1",
+    "ramda": "^0.27.0"
+  }
+}
